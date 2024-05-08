@@ -1,0 +1,6 @@
+name: SignChecker
+version: '${project.version}'
+main: me.noavmc.signchecker.SignChecker
+author: NoavMC
+api-version: '1.20'
+load: STARTUP
